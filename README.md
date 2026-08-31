@@ -1,5 +1,5 @@
 <div align="right">
-    <img width="32px" src="imagen/logo_intro.desarrollo.software.png">
+    <img width="32px" src="img/logo_intro.desarrollo.software.png">
 </div>
 
 # Proyecto Fase 1 Bash
