@@ -8,7 +8,7 @@
 * Ramiro Tomas Martinez - 115961 - rtmartinez@fi.uba.ar - https://github.com/Fachaso
 * Alan Fabrizio Messina Bossio - 116403 - amessina@fi.uba.ar
 * 
-* 
+* Lucas Nahuel Uran -116478 - luran@fi.uba.ar
 * 
 ---
 
